@@ -9,7 +9,7 @@ float sotienbandau, sotienkyvong, laisuat;
  {
 cout<<"Nhap So Tien Ban Dau:";
 cin>>sotienbandau;
-cout<<"Nhap Lai Suat(không can nhap phan tram):";
+cout<<"Nhap Lai Suat(khong can nhap phan tram):";
 cin>>laisuat;
 cout<<"Nhap So Tien Ky Vong:";
 cin>>sotienkyvong;
